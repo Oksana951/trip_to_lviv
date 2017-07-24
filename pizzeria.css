@@ -1,0 +1,24 @@
+body {
+font-family: Times New Roman sans-serif;
+}
+
+h1 {
+    font-size: 80pt;
+    color: #021f54;
+    text-align: center;
+    text-shadow: 2pt 1.5pt black;
+}
+
+a {
+    color: #021f54;
+    font-size: 20pt;      
+    text-decoration: none;
+    line-height: 1.8;
+    word-spacing: 9pt;
+}
+
+p {
+    font-family: Times New Roman sans-serif;
+    font-size: 14pt;
+    
+}
